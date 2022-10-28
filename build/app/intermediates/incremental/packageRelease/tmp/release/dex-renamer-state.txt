@@ -1,0 +1,4 @@
+#Wed Oct 26 16:11:36 ICT 2022
+base.0=D\:\\DATA PRIBADI\\PROJECT_\\shared_doc_v5\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
